@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685639492077",
+    "project_id": "ellie-stockapp",
+    "storage_bucket": "ellie-stockapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685639492077:android:c96c7f63f64aad0bbf47e4",
+        "android_client_info": {
+          "package_name": "com.example.elliestockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685639492077-h2csm6qipq8t41616d2i0obnoqc0qls0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGiSW6Qtw6gbqcPsJeq4FuzHjw8yFrD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685639492077-h2csm6qipq8t41616d2i0obnoqc0qls0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
